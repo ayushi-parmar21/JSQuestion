@@ -1,0 +1,1 @@
+var egg_cost = 3.45;

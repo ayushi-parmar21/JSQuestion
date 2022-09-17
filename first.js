@@ -1,0 +1,1 @@
+console.log("hello world"); // in this semicolon is optional
